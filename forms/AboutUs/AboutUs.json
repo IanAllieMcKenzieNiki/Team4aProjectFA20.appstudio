@@ -16,6 +16,24 @@
         "forms",
         "AboutUs",
         "Elements",
+        "hmbrMenu4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AboutUs",
+        "Elements",
+        "lblAboutUsMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AboutUs",
+        "Elements",
         "lblAboutUs.json"
       ]
     }

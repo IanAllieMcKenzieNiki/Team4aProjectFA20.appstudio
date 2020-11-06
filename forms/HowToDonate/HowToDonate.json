@@ -16,6 +16,15 @@
         "forms",
         "HowToDonate",
         "Elements",
+        "hmbrMenu3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HowToDonate",
+        "Elements",
         "lblHowToDonate.json"
       ]
     }

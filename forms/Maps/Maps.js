@@ -1,3 +1,32 @@
+hmbrMenu5.onclick=function(s){ 
+               console.log(s)       
+    if (typeof(s) == "object") { 
+       return
+    } else {
+       switch(s) {
+          case "Calendar":
+              ChangeForm(Calendar)
+                break
+            case "How To Donate":
+                ChangeForm(HowToDonate)
+                break
+            case "About Us":
+                ChangeForm(AboutUs)
+                break
+         case "Map":
+                ChangeForm(Maps)
+                break
+            case "Charities":
+                ChangeForm(Charities)
+                break
+            case "Contact Us":
+                ChangeForm(ContactUs)
+                break      
+                
+       } 
+   } 
+}
+
 
 let requestURL = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=food+pantries+in+Omaha&key=AIzaSyC0BgCoFeK4LNrY62p-WKS2Y-3mrFS6lRw"
 function onXHRLoad() {

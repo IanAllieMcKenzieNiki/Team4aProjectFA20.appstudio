@@ -16,7 +16,7 @@
         "forms",
         "restaurantHomepage",
         "Elements",
-        "lblRestaurantHomepage.json"
+        "hmbrMenu.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "restaurantHomepage",
         "Elements",
-        "hmbrMenu.json"
+        "lblRestaurantHomepage.json"
       ]
     }
   ],

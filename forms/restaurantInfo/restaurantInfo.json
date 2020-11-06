@@ -16,15 +16,6 @@
         "forms",
         "restaurantInfo",
         "Elements",
-        "lblRestaurantRegistration.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "restaurantInfo",
-        "Elements",
         "inptRestaurantInfoName.json"
       ]
     },
@@ -89,6 +80,24 @@
         "restaurantInfo",
         "Elements",
         "drpFoodTypeRestaurant.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "restaurantInfo",
+        "Elements",
+        "lblRestaurantRegistration.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "restaurantInfo",
+        "Elements",
+        "inptRestaurantState.json"
       ]
     }
   ],

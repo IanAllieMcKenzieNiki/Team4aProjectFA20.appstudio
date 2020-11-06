@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSubmitRestaurantRegistration",
-  "left": 128,
+  "left": 120,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 504,
+  "top": 744,
   "value": "Submit",
   "width": "auto"
 }

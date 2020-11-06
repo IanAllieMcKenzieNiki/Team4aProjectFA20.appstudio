@@ -16,6 +16,15 @@
         "forms",
         "ContactUs",
         "Elements",
+        "hmbrMenu7.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ContactUs",
+        "Elements",
         "lblContactUs.json"
       ]
     }

@@ -16,6 +16,15 @@
         "forms",
         "Calendar",
         "Elements",
+        "hmbrMenu2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Calendar",
+        "Elements",
         "lblCalendar.json"
       ]
     }

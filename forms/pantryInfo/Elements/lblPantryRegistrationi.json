@@ -20,8 +20,8 @@
   "fontWeight": "bold",
   "height": "auto",
   "hidden": "",
-  "id": "lblCalendar",
-  "left": 136,
+  "id": "lblPantryRegistrationi",
+  "left": 40,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -44,7 +44,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "text": "Label",
-  "top": 40,
+  "text": "Pantry Registration Page",
+  "top": 16,
   "width": "auto"
 }

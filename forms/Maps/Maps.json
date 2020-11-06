@@ -16,15 +16,6 @@
         "forms",
         "Maps",
         "Elements",
-        "lblMap.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Maps",
-        "Elements",
         "btnPantrySearch.json"
       ]
     },
@@ -35,6 +26,24 @@
         "Maps",
         "Elements",
         "txtaClosePantry.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Maps",
+        "Elements",
+        "hmbrMenu5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Maps",
+        "Elements",
+        "lblMaps.json"
       ]
     }
   ],

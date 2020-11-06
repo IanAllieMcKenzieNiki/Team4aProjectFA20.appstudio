@@ -16,7 +16,7 @@
         "forms",
         "pantryHomepage",
         "Elements",
-        "lblPantryHomepage.json"
+        "hmbrPantryMenu.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "pantryHomepage",
         "Elements",
-        "hmbrPantryMenu.json"
+        "lblPantryHomepage.json"
       ]
     }
   ],

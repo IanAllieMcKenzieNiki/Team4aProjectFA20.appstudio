@@ -34,15 +34,6 @@
         "forms",
         "pantryInfo",
         "Elements",
-        "lblPantryRegistration.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "pantryInfo",
-        "Elements",
         "inptPantryInfoAddress.json"
       ]
     },
@@ -80,6 +71,15 @@
         "pantryInfo",
         "Elements",
         "inptPantryInfoCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "lblPantryRegistrationi.json"
       ]
     }
   ],

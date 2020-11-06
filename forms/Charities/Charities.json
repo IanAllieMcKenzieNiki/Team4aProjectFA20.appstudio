@@ -16,6 +16,15 @@
         "forms",
         "Charities",
         "Elements",
+        "hmbrMenu6.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Charities",
+        "Elements",
         "lblCharities.json"
       ]
     }
